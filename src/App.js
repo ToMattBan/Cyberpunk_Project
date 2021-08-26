@@ -5,7 +5,7 @@ import "./styles.css"
 
 function App() {
   return (
-    <div className="App _psm background">
+    <div className="App _psm _fz20">
       <Socials />
       <Content />
       <Pages />

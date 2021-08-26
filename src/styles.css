@@ -12,7 +12,6 @@ body {
   background-position: center;
   height: 100vh;
   font-family: "Barlow", sans-serif;
-  font-size: 20px;
 }
 
 .socialIcons {
@@ -68,4 +67,16 @@ body {
 
 .arrows {
   transform: translateY(100%);
+}
+
+.buttons button:first-of-type {
+  background-color: var(--primary);
+  border: solid 1px var(--primary);
+  margin-right: 8px;
+}
+.buttons button:last-of-type {
+  background-color: transparent;
+  color: var(--primary);
+  border: solid 1px var(--primary);
+  margin-left: 8px;
 }
