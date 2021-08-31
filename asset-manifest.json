@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Cyberpunk_Project/static/css/main.b8b4ab35.chunk.css",
-    "main.js": "/Cyberpunk_Project/static/js/main.2ed5adf9.chunk.js",
-    "main.js.map": "/Cyberpunk_Project/static/js/main.2ed5adf9.chunk.js.map",
+    "main.css": "/Cyberpunk_Project/static/css/main.82b013bc.chunk.css",
+    "main.js": "/Cyberpunk_Project/static/js/main.c3ef6e44.chunk.js",
+    "main.js.map": "/Cyberpunk_Project/static/js/main.c3ef6e44.chunk.js.map",
     "runtime-main.js": "/Cyberpunk_Project/static/js/runtime-main.0e22c99b.js",
     "runtime-main.js.map": "/Cyberpunk_Project/static/js/runtime-main.0e22c99b.js.map",
     "static/js/2.9220dc48.chunk.js": "/Cyberpunk_Project/static/js/2.9220dc48.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.a7dd59d2.chunk.js": "/Cyberpunk_Project/static/js/3.a7dd59d2.chunk.js",
     "static/js/3.a7dd59d2.chunk.js.map": "/Cyberpunk_Project/static/js/3.a7dd59d2.chunk.js.map",
     "index.html": "/Cyberpunk_Project/index.html",
-    "static/css/main.b8b4ab35.chunk.css.map": "/Cyberpunk_Project/static/css/main.b8b4ab35.chunk.css.map",
+    "static/css/main.82b013bc.chunk.css.map": "/Cyberpunk_Project/static/css/main.82b013bc.chunk.css.map",
     "static/js/2.9220dc48.chunk.js.LICENSE.txt": "/Cyberpunk_Project/static/js/2.9220dc48.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/Cyberpunk_Project/static/media/background.df80c22c.png"
+    "static/media/styles.scss": "/Cyberpunk_Project/static/media/background.df80c22c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0e22c99b.js",
     "static/js/2.9220dc48.chunk.js",
-    "static/css/main.b8b4ab35.chunk.css",
-    "static/js/main.2ed5adf9.chunk.js"
+    "static/css/main.82b013bc.chunk.css",
+    "static/js/main.c3ef6e44.chunk.js"
   ]
 }
