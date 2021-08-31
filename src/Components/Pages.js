@@ -3,11 +3,11 @@ import rightArrow from "../Assets/RightArrow.png"
 
 function Pages() {
     return(
-        <div className="pages _prxs">
+        <div className="pages _prxs _dn _df@tabletH">
             <div>01/03</div>
             <div className="arrows _mrnxs _bnxs _poa _wsnw">
-                <img src={leftArrow} className="_prlg" />
-                <img src={rightArrow} />
+                <img alt="" src={leftArrow} className="_mrlg" />
+                <img alt="" src={rightArrow} />
             </div>
         </div>
     )

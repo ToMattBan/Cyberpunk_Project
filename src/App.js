@@ -1,7 +1,7 @@
 import Content from "./Components/Content";
 import Pages from "./Components/Pages";
 import Socials from "./Components/Socials";
-import "./styles.css"
+import "./styles.scss"
 
 function App() {
   return (

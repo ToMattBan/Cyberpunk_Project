@@ -10,8 +10,8 @@ function Socials() {
             
             <span className="socialIcons _prxl _dib _mtxxs _ptxxs">
                 <SocialItem img={facebookIcon} url="https://facebook.com" />
-                <SocialItem img={youtubeIcon} url="https://youtube.com" />
-                <SocialItem img={twitterIcon} url="https://twitter.com" />
+                <SocialItem img={youtubeIcon} url="https://www.youtube.com/channel/UC4zyoIAzmdsgpDZQfO1-lSA" />
+                <SocialItem img={twitterIcon} url="https://twitter.com/CyberpunkGame" />
             </span>
         </section>
     )

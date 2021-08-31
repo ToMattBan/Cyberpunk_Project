@@ -3,7 +3,7 @@ function SocialItem(props) {
 
     return (
         <a href={url} className="_mhxxs" >
-            <img src={img} />
+            <img alt="social_Icon" src={img} />
         </a>
     )
 }
